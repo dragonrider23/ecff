@@ -1,0 +1,33 @@
+# Simple key value pairs
+name: John Doe
+birthdate: Oct. 12, 2015
+id number: 84521
+employed: true
+hourly rate: 8.50
+
+# Simple list
+hobbies:
+    skydiving
+    movies
+    walking by the beach
+
+# Named lists
+work places: company1
+    small
+    cubical
+
+work places: company2
+    better pay
+    nice coke machine
+
+# Extended lists
+languages: English native=true
+###
+    It's alright
+    Not my favorite
+
+languages: Spanish native=false
+    Much better than English
+    The verbs are amazing
+
+class: CS215 weekend=false
